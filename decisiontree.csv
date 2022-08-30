@@ -1,0 +1,391 @@
+Percent of mines;Time to explosion;Range of explosion;What to do
+1;1;1;Defuse
+1;2;1;Defuse
+1;3;1;Move away
+1;4;1;Move away
+1;5;1;Move away
+1;6;1;Move away
+1;7;1;Move away
+1;8;1;Move away
+1;9;1;Move away
+1;10;1;Move away
+1;1;2;Defuse
+1;2;2;Defuse
+1;3;2;Move away
+1;4;2;Move away
+1;5;2;Move away
+1;6;2;Move away
+1;7;2;Move away
+1;8;2;Move away
+1;9;2;Move away
+1;10;2;Move away
+1;1;3;Defuse
+1;2;3;Defuse
+1;3;3;Move away
+1;4;3;Move away
+1;5;3;Move away
+1;6;3;Move away
+1;7;3;Move away
+1;8;3;Move away
+1;9;3;Move away
+2;10;3;Move away
+2;1;1;Defuse
+2;2;1;Defuse
+2;3;1;Move away
+2;4;1;Move away
+2;5;1;Move away
+2;6;1;Move away
+2;7;1;Move away
+2;8;1;Move away
+2;9;1;Move away
+2;10;1;Move away
+2;1;2;Defuse
+2;2;2;Defuse
+2;3;2;Move away
+2;4;2;Move away
+2;5;2;Move away
+2;6;2;Move away
+2;7;2;Move away
+2;8;2;Move away
+2;9;2;Move away
+2;10;2;Move away
+2;1;3;Defuse
+2;2;3;Defuse
+2;3;3;Move away
+2;4;3;Move away
+2;5;3;Move away
+2;6;3;Move away
+2;7;3;Move away
+2;8;3;Move away
+2;9;3;Move away
+2;10;3;Move away
+3;1;1;Defuse
+3;2;1;Defuse
+3;3;1;Move away
+3;4;1;Move away
+3;5;1;Move away
+3;6;1;Move away
+3;7;1;Move away
+3;8;1;Move away
+3;9;1;Move away
+3;10;1;Move away
+3;1;2;Defuse
+3;2;2;Defuse
+3;3;2;Move away
+3;4;2;Move away
+3;5;2;Move away
+3;6;2;Move away
+3;7;2;Move away
+3;8;2;Move away
+3;9;2;Move away
+3;10;2;Move away
+3;1;3;Defuse
+3;2;3;Defuse
+3;3;3;Move away
+3;4;3;Move away
+3;5;3;Move away
+3;6;3;Move away
+3;7;3;Move away
+3;8;3;Move away
+3;9;3;Move away
+3;10;3;Move away
+4;1;1;Defuse
+4;2;1;Defuse
+4;3;1;Defuse
+4;4;1;Defuse
+4;5;1;Defuse
+4;6;1;Defuse
+4;7;1;Defuse
+4;8;1;Defuse
+4;9;1;Defuse
+4;10;1;Defuse
+4;1;2;Defuse
+4;2;2;Defuse
+4;3;2;Move away
+4;4;2;Move away
+4;5;2;Move away
+4;6;2;Move away
+4;7;2;Move away
+4;8;2;Move away
+4;9;2;Move away
+4;10;2;Move away
+4;1;3;Defuse
+4;2;3;Defuse
+4;3;3;Move away
+4;4;3;Move away
+4;5;3;Move away
+4;6;3;Move away
+4;7;3;Move away
+4;8;3;Move away
+4;9;3;Move away
+4;10;3;Move away
+5;1;1;Defuse
+5;2;1;Defuse
+5;3;1;Defuse
+5;4;1;Defuse
+5;5;1;Defuse
+5;6;1;Defuse
+5;7;1;Defuse
+5;8;1;Defuse
+5;9;1;Defuse
+5;10;1;Defuse
+5;1;2;Defuse
+5;2;2;Defuse
+5;3;2;Defuse
+5;4;2;Defuse
+5;5;2;Defuse
+5;6;2;Move away
+5;7;2;Move away
+5;8;2;Move away
+5;9;2;Move away
+5;10;2;Move away
+5;1;3;Defuse
+5;2;3;Defuse
+5;3;3;Move away
+5;4;3;Move away
+5;5;3;Move away
+5;6;3;Move away
+5;7;3;Move away
+5;8;3;Move away
+5;9;3;Move away
+5;10;3;Move away
+6;1;1;Defuse
+6;2;1;Defuse
+6;3;1;Defuse
+6;4;1;Defuse
+6;5;1;Defuse
+6;6;1;Defuse
+6;7;1;Defuse
+6;8;1;Defuse
+6;9;1;Defuse
+6;10;1;Defuse
+6;1;2;Defuse
+6;2;2;Defuse
+6;3;2;Defuse
+6;4;2;Defuse
+6;5;2;Defuse
+6;6;2;Move away
+6;7;2;Move away
+6;8;2;Move away
+6;9;2;Move away
+6;10;2;Move away
+6;1;3;Defuse
+6;2;3;Defuse
+6;3;3;Move away
+6;4;3;Move away
+6;5;3;Move away
+6;6;3;Move away
+6;7;3;Move away
+6;8;3;Move away
+6;9;3;Move away
+6;10;3;Move away
+7;1;1;Defuse
+7;2;1;Defuse
+7;3;1;Defuse
+7;4;1;Defuse
+7;5;1;Defuse
+7;6;1;Defuse
+7;7;1;Defuse
+7;8;1;Defuse
+7;9;1;Defuse
+7;10;1;Defuse
+7;1;2;Defuse
+7;2;2;Defuse
+7;3;2;Defuse
+7;4;2;Defuse
+7;5;2;Defuse
+7;6;2;Defuse
+7;7;2;Defuse
+7;8;2;Defuse
+7;9;2;Defuse
+7;10;2;Defuse
+7;1;3;Defuse
+7;2;3;Defuse
+7;3;3;Move away
+7;4;3;Move away
+7;5;3;Move away
+7;6;3;Move away
+7;7;3;Move away
+7;8;3;Move away
+7;9;3;Move away
+7;10;3;Move away
+8;1;1;Defuse
+8;2;1;Defuse
+8;3;1;Defuse
+8;4;1;Defuse
+8;5;1;Defuse
+8;6;1;Defuse
+8;7;1;Defuse
+8;8;1;Defuse
+8;9;1;Defuse
+8;10;1;Defuse
+8;1;2;Defuse
+8;2;2;Defuse
+8;3;2;Defuse
+8;4;2;Defuse
+8;5;2;Defuse
+8;6;2;Defuse
+8;7;2;Defuse
+8;8;2;Defuse
+8;9;2;Defuse
+8;10;2;Defuse
+8;1;3;Defuse
+8;2;3;Defuse
+8;3;3;Move away
+8;4;3;Move away
+8;5;3;Move away
+8;6;3;Move away
+8;7;3;Move away
+8;8;3;Move away
+8;9;3;Move away
+8;10;3;Move away
+9;1;1;Defuse
+9;2;1;Defuse
+9;3;1;Defuse
+9;4;1;Defuse
+9;5;1;Defuse
+9;6;1;Defuse
+9;7;1;Defuse
+9;8;1;Defuse
+9;9;1;Defuse
+9;10;1;Defuse
+9;1;2;Defuse
+9;2;2;Defuse
+9;3;2;Defuse
+9;4;2;Defuse
+9;5;2;Defuse
+9;6;2;Defuse
+9;7;2;Defuse
+9;8;2;Defuse
+9;9;2;Defuse
+9;10;2;Defuse
+9;1;3;Defuse
+9;2;3;Defuse
+9;3;3;Defuse
+9;4;3;Defuse
+9;5;3;Defuse
+9;6;3;Move away
+9;7;3;Move away
+9;8;3;Move away
+9;9;3;Move away
+9;10;3;Move away
+10;1;1;Defuse
+10;2;1;Defuse
+10;3;1;Defuse
+10;4;1;Defuse
+10;5;1;Defuse
+10;6;1;Defuse
+10;7;1;Defuse
+10;8;1;Defuse
+10;9;1;Defuse
+10;10;1;Defuse
+10;1;2;Defuse
+10;2;2;Defuse
+10;3;2;Defuse
+10;4;2;Defuse
+10;5;2;Defuse
+10;6;2;Defuse
+10;7;2;Defuse
+10;8;2;Defuse
+10;9;2;Defuse
+10;10;2;Defuse
+10;1;3;Defuse
+10;2;3;Defuse
+10;3;3;Defuse
+10;4;3;Defuse
+10;5;3;Defuse
+10;6;3;Defuse
+10;7;3;Defuse
+10;8;3;Defuse
+10;9;3;Defuse
+10;10;3;Defuse
+20;1;1;Defuse
+20;2;1;Defuse
+20;3;1;Defuse
+20;4;1;Defuse
+20;5;1;Defuse
+20;6;1;Defuse
+20;7;1;Defuse
+20;8;1;Defuse
+20;9;1;Defuse
+20;10;1;Defuse
+20;1;2;Defuse
+20;2;2;Defuse
+20;3;2;Defuse
+20;4;2;Defuse
+20;5;2;Defuse
+20;6;2;Defuse
+20;7;2;Defuse
+20;8;2;Defuse
+20;9;2;Defuse
+20;10;2;Defuse
+20;1;3;Defuse
+20;2;3;Defuse
+20;3;3;Defuse
+20;4;3;Defuse
+20;5;3;Defuse
+20;6;3;Defuse
+20;7;3;Defuse
+20;8;3;Defuse
+20;9;3;Defuse
+20;10;3;Defuse
+40;1;1;Defuse
+40;2;1;Defuse
+40;3;1;Defuse
+40;4;1;Defuse
+40;5;1;Defuse
+40;6;1;Defuse
+40;7;1;Defuse
+40;8;1;Defuse
+40;9;1;Defuse
+40;10;1;Defuse
+40;1;2;Defuse
+40;2;2;Defuse
+40;3;2;Defuse
+40;4;2;Defuse
+40;5;2;Defuse
+60;6;2;Defuse
+60;7;2;Defuse
+60;8;2;Defuse
+60;9;2;Defuse
+60;10;2;Defuse
+60;1;3;Defuse
+60;2;3;Defuse
+60;3;3;Defuse
+60;4;3;Defuse
+60;5;3;Defuse
+60;6;3;Defuse
+60;7;3;Defuse
+60;8;3;Defuse
+60;9;3;Defuse
+60;10;3;Defuse
+80;1;1;Defuse
+80;2;1;Defuse
+80;3;1;Defuse
+80;4;1;Defuse
+80;5;1;Defuse
+80;6;1;Defuse
+80;7;1;Defuse
+80;8;1;Defuse
+80;9;1;Defuse
+80;10;1;Defuse
+80;1;2;Defuse
+80;2;2;Defuse
+80;3;2;Defuse
+80;4;2;Defuse
+80;5;2;Defuse
+100;6;2;Defuse
+100;7;2;Defuse
+100;8;2;Defuse
+100;9;2;Defuse
+100;10;2;Defuse
+100;1;3;Defuse
+100;2;3;Defuse
+100;3;3;Defuse
+100;4;3;Defuse
+100;5;3;Defuse
+100;6;3;Defuse
+100;7;3;Defuse
+100;8;3;Defuse
+100;9;3;Defuse
+100;10;3;Defuse
