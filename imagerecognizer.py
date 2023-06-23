@@ -9,7 +9,7 @@ image_width = 256
 batch_size = 32
 sets_path = "./learning_sets"
 model_path="./IR.model"
-train_new_model=True
+train_new_model=False
 
 class ImageRecognizer():
 	def __init__(self):

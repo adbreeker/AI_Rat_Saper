@@ -5,7 +5,7 @@ from sklearn import tree
 from sklearn.tree import DecisionTreeClassifier
 
 decision = {'Defuse': 0, 'Move away': 1}
-variables = {'Percent of mines', 'Time to explosion', 'Range of explosion'}
+variables = ['Percent of mines', 'Time to explosion', 'Range of explosion']
 
 class DecisionTree:
 	def __init__(self):
